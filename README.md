@@ -20,5 +20,5 @@ Also, it should pass all the following tests.
 11. [x] Within the form, there is a submit input with a corresponding id="submit"
 12. [x] When you click the #submit element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit)
 13. [x] The navbar should always be at the top of the viewport
-14. [ ] Your product landing page should have at least one media query
+14. [x] Your product landing page should have at least one media query
 15. [x] Your product landing page should utilize CSS flexbox at least once
